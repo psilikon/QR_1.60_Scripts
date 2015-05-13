@@ -1,0 +1,52 @@
+Script started on Wed 13 May 2015 10:08:29 AM EDT
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc $[00m exits
+exits: command not found
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc $[00m cd scru[Kipts
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc/scripts $[00m ls
+[0m[01;32madmin_modify_lead.php[0m               [01;32mFRONTER_test.php[0m                    [01;32mrebuttal_SA.php[0m                                  [01;32mRoomC_PRODORD16_FRONTER.php[0m
+[01;32majaxserver.php[0m                      [01;34mimages[0m                              [01;32mRejectCallbacks_CLOSER.php[0m                       [01;32mRoomD_CID_PRODORD16_CLOSER.php[0m
+[01;34mbackup[0m                              [01;34minc[0m                                 RoomA_CID_PRODORD16_CLOSER.php                   [01;32mRoomD_CID_PRODORD16_FRONTER.php[0m
+[01;32mbeta_script.php[0m                     NEWINBOUND_CLOSER.php               [01;32mRoomA_CID_PRODORD16_FRONTER.php[0m                  [01;32mRoomD.php[0m
+[01;32mclientscript_includes.php[0m           NEWINBOUND_CLOSER_test.php          RoomA_PRODORD16_CLOSER.php                       [01;32mRoomD_PRODORD16_CLOSER.php[0m
+[01;32mclientscript_includes.php.bak[0m       [01;32mNEWINBOUND_FRONTER_ebay.php[0m         RoomA_PRODORD16_CLOSER.php.JOEL-2015-05-12       [01;32mRoomD_PRODORD16_FRONTER.php[0m
+[01;32mclientscript_includes_test.php[0m      [01;32mNEWINBOUND_FRONTER_test.php[0m         [01;32mRoomA_PRODORD16_FRONTER.php[0m                      [01;32mscript_includes.php[0m
+CLOSER_test.php                     [01;32mNEWINBOUND_FRONTER_travelocity.php[0m  RoomB_CID_PRODORD16_CLOSER.php                   [01;32mscript_includes_VICI.php[0m
+[01;32mCS_FRONTER.php[0m                      [01;32mNewRoomD_fronter.php[0m                [01;32mRoomB_CID_PRODORD16_FRONTER.php[0m                  [01;32mtest_joel.php[0m
+[01;32mCS_FRONTER_VICI.php[0m                 [01;34mproducts[0m                            [01;32mRoomB_CID_PRODORD16_FRONTER.php.JOEL-2015-05-12[0m  [01;32mtest.php[0m
+[01;32mCS_INBOUND_VICI.php[0m                 [01;32mprv_front_beta.php[0m                  RoomB_PRODORD16_CLOSER.php                       updateEbayTrvlctyLeadInfo.php
+[01;32mdata_includes.php[0m                   [01;32mQR_customer_info_portal.php[0m         RoomB_PRODORD16_CLOSER.php.JOEL-2015-05-12       [01;32mverifier_footer_103013.php[0m
+[01;32mdata_includes.php.new[0m               [01;32mQR_customer_info_portal.php.old[0m     [01;32mRoomB_PRODORD16_FRONTER.php[0m                      verifier_footer.php
+[01;32mdata_includes.php.old[0m               [01;32mrebuttal_DynHEAD.php[0m                RoomC_CID_PRODORD16_CLOSER.php                   [01;32mverifier_footer.php.bk[0m
+[01;32mdata_includes_VICI.php[0m              [01;32mrebuttal_DynHEAD_test.php[0m           [01;32mRoomC_CID_PRODORD16_FRONTER.php[0m                  verifier_footer.php.JOEL-2015-05-12
+[01;32mfronter_footer.php[0m                  [01;32mrebuttal_GF.php[0m                     RoomC_PRODORD16_CLOSER.php                       verifier_footer_test.php
+[01;32mfronter_footer.php.JOEL-2015-05-12[0m  [01;32mrebuttal_HEAD.php[0m                   RoomC_PRODORD16_CLOSER.php.JOEL-2015-05-12
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc/scripts $[00m cd products/
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc/scripts/products $[00m ls
+ba.php     NEWPROD1.php                [0m[01;32mprv_front_dream.php[0m         [01;32mprv_front_ocast.php[0m  [01;32mprv_front.php.JA101113[0m     [01;32mprv.php.backup[0m             [01;32mresults.txt[0m
+[01;32mgf.php[0m     NEWPROD1_test.php           prv_front_ebay.php          [01;32mprv_front_ocee.php[0m   [01;32mprv_front.php.JA91813[0m      [01;32mprv.php.BACKUP-2015-05-07[0m  [01;32msa.php[0m
+[01;32mgf.php.bk[0m  [01;32mnoproduct.php[0m               prv_front_ebay_trvlcty.php  [01;32mprv_front.php[0m        prv_front_travelocity.php  [01;32mprv.php.bak[0m                [01;32msa.php.bak[0m
+[01;32mid.php[0m     [01;32mprv2.php[0m                    [01;32mprv_front_EBAY_TRVLCTY.php[0m  [01;32mprv_front.php.bk[0m     prvOCADSH.php              [01;32mprv.php.JA91813[0m
+[01;32mNEW.php[0m    prv_close_ebay_trvlcty.php  [01;32mprv_front_new.php[0m           [01;32mprv_front.php.bk2[0m    [01;32mprv.php[0m                    prvTEST.php
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc/scripts/products $[00m cd ..
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc/scripts $[00m ls
+[0m[01;32madmin_modify_lead.php[0m               [01;32mFRONTER_test.php[0m                    [01;32mrebuttal_SA.php[0m                                  [01;32mRoomC_PRODORD16_FRONTER.php[0m
+[01;32majaxserver.php[0m                      [01;34mimages[0m                              [01;32mRejectCallbacks_CLOSER.php[0m                       [01;32mRoomD_CID_PRODORD16_CLOSER.php[0m
+[01;34mbackup[0m                              [01;34minc[0m                                 RoomA_CID_PRODORD16_CLOSER.php                   [01;32mRoomD_CID_PRODORD16_FRONTER.php[0m
+[01;32mbeta_script.php[0m                     NEWINBOUND_CLOSER.php               [01;32mRoomA_CID_PRODORD16_FRONTER.php[0m                  [01;32mRoomD.php[0m
+[01;32mclientscript_includes.php[0m           NEWINBOUND_CLOSER_test.php          RoomA_PRODORD16_CLOSER.php                       [01;32mRoomD_PRODORD16_CLOSER.php[0m
+[01;32mclientscript_includes.php.bak[0m       [01;32mNEWINBOUND_FRONTER_ebay.php[0m         RoomA_PRODORD16_CLOSER.php.JOEL-2015-05-12       [01;32mRoomD_PRODORD16_FRONTER.php[0m
+[01;32mclientscript_includes_test.php[0m      [01;32mNEWINBOUND_FRONTER_test.php[0m         [01;32mRoomA_PRODORD16_FRONTER.php[0m                      [01;32mscript_includes.php[0m
+CLOSER_test.php                     [01;32mNEWINBOUND_FRONTER_travelocity.php[0m  RoomB_CID_PRODORD16_CLOSER.php                   [01;32mscript_includes_VICI.php[0m
+[01;32mCS_FRONTER.php[0m                      [01;32mNewRoomD_fronter.php[0m                [01;32mRoomB_CID_PRODORD16_FRONTER.php[0m                  [01;32mtest_joel.php[0m
+[01;32mCS_FRONTER_VICI.php[0m                 [01;34mproducts[0m                            [01;32mRoomB_CID_PRODORD16_FRONTER.php.JOEL-2015-05-12[0m  [01;32mtest.php[0m
+[01;32mCS_INBOUND_VICI.php[0m                 [01;32mprv_front_beta.php[0m                  RoomB_PRODORD16_CLOSER.php                       updateEbayTrvlctyLeadInfo.php
+[01;32mdata_includes.php[0m                   [01;32mQR_customer_info_portal.php[0m         RoomB_PRODORD16_CLOSER.php.JOEL-2015-05-12       [01;32mverifier_footer_103013.php[0m
+[01;32mdata_includes.php.new[0m               [01;32mQR_customer_info_portal.php.old[0m     [01;32mRoomB_PRODORD16_FRONTER.php[0m                      verifier_footer.php
+[01;32mdata_includes.php.old[0m               [01;32mrebuttal_DynHEAD.php[0m                RoomC_CID_PRODORD16_CLOSER.php                   [01;32mverifier_footer.php.bk[0m
+[01;32mdata_includes_VICI.php[0m              [01;32mrebuttal_DynHEAD_test.php[0m           [01;32mRoomC_CID_PRODORD16_FRONTER.php[0m                  verifier_footer.php.JOEL-2015-05-12
+[01;32mfronter_footer.php[0m                  [01;32mrebuttal_GF.php[0m                     RoomC_PRODORD16_CLOSER.php                       verifier_footer_test.php
+[01;32mfronter_footer.php.JOEL-2015-05-12[0m  [01;32mrebuttal_HEAD.php[0m                   RoomC_PRODORD16_CLOSER.php.JOEL-2015-05-12
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc/scripts $[00m cd ..
+[01;32mjshasteen@itworkstation[01;34m ~/Code/web1_agc $[00m ll[Ks
+[0m[01;32mactive_list_refresh.php[0m        [01;32mindex.php[0m                       [01;32mtimeclock.php.orig[0m                      [01;32mvicidial_mysql_errors.txt[0m
+[01;32madmin log urls.txt[0m             [01;32mlaunch.php[0m              
